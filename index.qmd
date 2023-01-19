@@ -2,7 +2,7 @@
 title: "Analisis Pengaruh Ekspor Kopi ke Negara Mesir terhadap Nilai Tukar Rupiah Tahun 2012-2021"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Kristina"
-date: 2023-01-20
+date: 2023-01-19
 number-sections: true
 format:
   html: default
